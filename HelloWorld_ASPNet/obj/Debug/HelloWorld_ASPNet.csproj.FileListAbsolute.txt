@@ -1,0 +1,4 @@
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet\bin\HelloWorld_ASPNet.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet\bin\HelloWorld_ASPNet.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet\obj\Debug\HelloWorld_ASPNet.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet\obj\Debug\HelloWorld_ASPNet.pdb

@@ -1,0 +1,7 @@
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\bin\Debug\HelloWorld_ASPNet_Test.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\bin\Debug\HelloWorld_ASPNet_Test.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\obj\Debug\HelloWorld_ASPNet_Test.csprojResolveAssemblyReference.cache
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\obj\Debug\HelloWorld_ASPNet_Test.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\obj\Debug\HelloWorld_ASPNet_Test.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\bin\Debug\HelloWorld_ASPNet.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet_Test\bin\Debug\HelloWorld_ASPNet.pdb

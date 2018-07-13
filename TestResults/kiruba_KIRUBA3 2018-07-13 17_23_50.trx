@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6496fd6b-05aa-4026-8433-30079b36a58c" name="kiruba@KIRUBA3 2018-07-13 17:23:50" runUser="ASIAPACIFIC\kiruba" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="47975017-950a-4a73-9e65-bfaa4aaf8733">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kiruba_KIRUBA3 2018-07-13 17_23_50">
+      <DeploymentItem filename="C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_ASPNet\HelloWorld_ASPNet\bin\HelloWorld_ASPNet.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-07-13T17:23:50.1523721+05:30" queuing="2018-07-13T17:23:51.7681952+05:30" start="2018-07-13T17:23:51.9657347+05:30" finish="2018-07-13T17:23:52.9324280+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\kiruba\desktop\devops\test_applications\helloworld_aspnet\helloworld_aspnet_test\bin\debug\helloworld_aspnet_test.dll" id="b5aa4311-2b80-d34b-74e1-be98a649ebbe">
+      <Execution id="2d75ce7a-a94c-48b6-86e4-bb8e92175c00" />
+      <TestMethod codeBase="C:/Users/kiruba/Desktop/DevOps/Test_Applications/HelloWorld_ASPNet/HelloWorld_ASPNet_Test/bin/Debug/HelloWorld_ASPNet_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorld_ASPNet_Test.UnitTest1, HelloWorld_ASPNet_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b5aa4311-2b80-d34b-74e1-be98a649ebbe" executionId="2d75ce7a-a94c-48b6-86e4-bb8e92175c00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2d75ce7a-a94c-48b6-86e4-bb8e92175c00" testId="b5aa4311-2b80-d34b-74e1-be98a649ebbe" testName="TestMethod1" computerName="KIRUBA3" duration="00:00:00.0622990" startTime="2018-07-13T17:23:52.0392494+05:30" endTime="2018-07-13T17:23:52.9029221+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d75ce7a-a94c-48b6-86e4-bb8e92175c00">
+    </UnitTestResult>
+  </Results>
+</TestRun>
