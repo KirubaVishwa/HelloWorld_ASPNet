@@ -11,7 +11,7 @@
     <div>
         <%HelloWorld_ASPNet.Test obj = new HelloWorld_ASPNet.Test(); %>
         <h1><% =obj.Name %></h1>
-        <h2>Continuous Integration Demo - SecTools</h2>
+        
 
     </div>
     </form>
