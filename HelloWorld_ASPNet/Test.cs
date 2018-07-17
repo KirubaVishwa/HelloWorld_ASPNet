@@ -10,7 +10,7 @@ namespace HelloWorld_ASPNet
         public String Name;
         public Test()
         {
-            Name = "Welcome to SecTools!!";
+            Name = "Welcome to ESS!!";
         } 
     }
 }
